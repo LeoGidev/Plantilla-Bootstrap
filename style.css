@@ -1,5 +1,11 @@
+#portada{
+    color: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
 #portada img{
-    height: 30px;
+    height: 30vh;
     position: fixed;
 
 }
