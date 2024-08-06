@@ -24,8 +24,7 @@
 #portada h4{
     transition: 2s;
     padding: 10px;
-    border-radius: 10px;
     border: 4px solid white;
-    background-color: antiquewhite;
+    background-color: rgba(59, 59, 59, 0.144);
 
 }
