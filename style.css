@@ -4,9 +4,12 @@
     color: white;
     height: 30vh;
     overflow: hidden;
+    transition: 2s;
 }
 #portada:hover{
     cursor: pointer;
+    fill-opacity: 0.4;
+    transition: 2s;
 }
 #portada h2{
     z-index: 100;
