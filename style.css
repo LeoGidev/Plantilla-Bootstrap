@@ -10,7 +10,9 @@
 }
 #portada p{
     filter: blur(10px);
+    transition: 2s;
 }
 #portada p:hover{
-    filter: blur(none);
+    filter: blur(0);
+    transition: 2s;
 }
