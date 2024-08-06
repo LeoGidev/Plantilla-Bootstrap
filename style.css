@@ -5,6 +5,9 @@
     height: 30vh;
     overflow: hidden;
 }
+#portada:hover{
+    cursor: pointer;
+}
 #portada h2{
     z-index: 100;
 }
