@@ -35,3 +35,6 @@
     overflow: hidden;
     z-index: 300;
 }
+#lateral{
+    border-radius: 10px;
+}
