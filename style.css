@@ -2,9 +2,9 @@
     background-image: url(img/sky.jpg);
     background-attachment: fixed;
     color: white;
-    display: flex;
-    align-items: center;
-    align-content: center;
     height: 30vh;
     overflow: hidden;
+}
+#portada h2{
+    z-index: 100;
 }
