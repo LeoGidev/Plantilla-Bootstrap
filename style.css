@@ -8,3 +8,9 @@
 #portada h2{
     z-index: 100;
 }
+#portada p{
+    filter: blur(10px);
+}
+#portada p:hover{
+    filter: blur(none);
+}
