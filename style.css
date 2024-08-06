@@ -29,6 +29,9 @@
     backdrop-filter: blur(20px);
     margin-bottom: 10px;
 }
-.nav-bar{
+.navbar{
     position: sticky;
+    top: 0px;
+    overflow: hidden;
+    z-index: 300;
 }
