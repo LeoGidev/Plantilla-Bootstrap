@@ -1,11 +1,8 @@
 #portada{
+    background-image: url(img/sky.jpg);
+    background-attachment: fixed;
     color: white;
     display: flex;
     align-items: center;
     align-content: center;
-}
-#portada img{
-    height: 30vh;
-    position: fixed;
-
 }
