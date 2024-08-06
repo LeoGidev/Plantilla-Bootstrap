@@ -21,10 +21,11 @@
     filter: blur(0);
     transition: 2s;
 }
-#Portada h2{
+#portada h4{
     transition: 2s;
     padding: 10px;
     border-radius: 10px;
     border: 4px solid white;
+    background-color: antiquewhite;
 
 }
