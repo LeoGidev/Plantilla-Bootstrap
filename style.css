@@ -44,4 +44,5 @@
     background: #aaaaaa69;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px ;
+    box-shadow: 1px 0px 0px black inset;
 }
