@@ -39,3 +39,7 @@
     border-radius: 10px;
     box-shadow: 0px 2px 1px 1px rgba(116, 115, 115, 0.582);
 }
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+}
