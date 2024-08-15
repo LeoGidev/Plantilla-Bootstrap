@@ -14,7 +14,7 @@
 #portada p{
     filter: blur(10px);
     transition: 2s;
-    border-color: azure;
+    border: 2px solid white;
 }
 #portada p:hover{
     filter: blur(0);
