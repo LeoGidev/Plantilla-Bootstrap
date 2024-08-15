@@ -14,18 +14,18 @@
 #portada p{
     filter: blur(10px);
     transition: 2s;
+    border-color: azure;
 }
 #portada p:hover{
     filter: blur(0);
     transition: 2s;
 }
 #portada h4{
-    
+    z-index: 10px;
     padding: 10px;
     border-radius: 10px;
     background-color: rgba(59, 59, 59, 0.144);
     backdrop-filter: blur(20px);
-    margin-bottom: 10px;
 }
 .navbar{
     position: sticky;
