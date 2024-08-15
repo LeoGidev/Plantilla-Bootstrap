@@ -19,7 +19,7 @@
     padding: 10px;
     border-radius: 10px;
     background-color: rgba(59, 59, 59, 0.144);
-    backdrop-filter: blur(20px);
+    /*backdrop-filter: blur(20px);*/
     filter: blur(0px);
     transition: 2s;
     border: 2px solid white;
