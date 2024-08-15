@@ -19,13 +19,13 @@
     padding: 10px;
     border-radius: 10px;
     background-color: rgba(59, 59, 59, 0.144);
-    /*backdrop-filter: blur(20px);*/
+    backdrop-filter: blur(20px);
     filter: blur(0px);
     transition: 2s;
     border: 2px solid white;
 }
 #portada h4:hover{
-    filter: blur(10);
+    filter: blur(10px);
     transition: 2s;
 }
 .navbar{
