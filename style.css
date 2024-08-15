@@ -24,7 +24,7 @@
     transition: 2s;
 }
 #portada h4{
-    z-index: 10px;
+    z-index: 100;
     padding: 10px;
     border-radius: 10px;
     background-color: rgba(59, 59, 59, 0.144);
