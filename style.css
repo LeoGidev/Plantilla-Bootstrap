@@ -14,7 +14,13 @@
     border: 4px solid wheat;
 }
 
-#portada p{
+
+#portada h4{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(59, 59, 59, 0.144);
+    backdrop-filter: blur(20px);
+
     filter: blur(10px);
     transition: 2s;
     border: 2px solid white;
@@ -22,12 +28,6 @@
 #portada p:hover{
     filter: blur(0);
     transition: 2s;
-}
-#portada h4{
-    padding: 10px;
-    border-radius: 10px;
-    background-color: rgba(59, 59, 59, 0.144);
-    backdrop-filter: blur(20px);
 }
 .navbar{
     position: sticky;
