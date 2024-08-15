@@ -21,12 +21,12 @@
     background-color: rgba(59, 59, 59, 0.144);
     backdrop-filter: blur(20px);
 
-    filter: blur(10px);
+    filter: blur(0px);
     transition: 2s;
     border: 2px solid white;
 }
-#portada p:hover{
-    filter: blur(0);
+#portada h4:hover{
+    filter: blur(10);
     transition: 2s;
 }
 .navbar{
